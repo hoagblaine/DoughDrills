@@ -1,0 +1,7 @@
+{
+  "name": "Dough Drills",
+  "description": "Master your baking recipes through active recall and gamified quizzes. Stop reading, start recalling, and become an Oven Overlord.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
